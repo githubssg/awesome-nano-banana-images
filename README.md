@@ -74,6 +74,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 86：双重曝光 (by rezzycheck (Sora))](#cases-86)
 * [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 * [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+* [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+* [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+* [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 *   [案例 85：超现实交互场景 (by @umesh_ai)](#cases-85)
 *   [案例 84：动物硅胶腕托 (by @ZHO_ZHO_ZHO)](#cases-84)
 *   [案例 83：发光线条解剖图 (by @umesh_ai)](#cases-83)
